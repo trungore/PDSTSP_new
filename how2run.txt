@@ -1,0 +1,3 @@
+g++ winter_main.cpp --std=c++11 -O2 -o PDSTSP
+
+PDSTSP --input eil101_0_80.csv --drone 1 --vehicle-speed 1 --drone-speed 5 --time-limit 10

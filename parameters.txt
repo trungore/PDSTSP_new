@@ -1,0 +1,12 @@
+rho_tsp   = {0.70, 0.80, 0.85, 0.90, 0.95}
+rho_drone = {0.70, 0.80, 0.85, 0.90, 0.95}
+
+fPhe * instance.numPoint = maxPhe / minPhe 
+fPhe = {0.1, 0.5, 1.0, 2.0, 3.0, 5.0}
+        
+nAnts = fAnts * instance.numPoint;
+fAnts = {0.5, 1.0, 2.0}
+
+nd (percent_drone_keeping) = {0.30, 0.50, 0.70}
+
+scale = 100%
